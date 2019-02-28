@@ -1,7 +1,7 @@
 ATTENTDEE'S (include your name when you successfully pull and push after adding your name
 
 -Zach
-
+-Doug
 
 # UML-Editor
 Contains documents for the UML diagram editors for Group 2 [Speghett for Zopett]  
