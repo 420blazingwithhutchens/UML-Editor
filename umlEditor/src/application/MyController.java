@@ -2,23 +2,17 @@ package umlEditor.src.application;
 
 import java.net.URL;
 import java.util.ResourceBundle;
-import javafx.scene.layout.Region;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
-import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 import javafx.scene.Cursor;
-import javafx.scene.Group;
 import javafx.scene.Node;
 import javafx.scene.shape.Rectangle;
-import javafx.scene.shape.RectangleBuilder;
-import javafx.stage.Stage;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.control.MenuItem;
 
 public class MyController implements Initializable {
 
