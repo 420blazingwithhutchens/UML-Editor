@@ -1,4 +1,5 @@
-package application;
+//test
+package umlEditor.src.application;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
