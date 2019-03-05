@@ -24,7 +24,6 @@ public class MyController implements Initializable {
 
 	@FXML
 	private AnchorPane root;
-	
 
 	@FXML
 	private Rectangle newRec;
@@ -59,9 +58,9 @@ public class MyController implements Initializable {
 		newRec.setOnMousePressed(rectangleOnMousePressedEventHandler);
 		newRec.setOnMouseDragged(rectangleOnMouseDraggedEventHandler);
 		nodeSpace.getChildren().add(newRec);
-         
+
 	}
-	
+
 	public void drag(MouseEvent event) {
 		Node n = (Node) event.getSource();
 		n.setTranslateX(n.getTranslateX() + event.getX());
@@ -93,10 +92,9 @@ public class MyController implements Initializable {
 		}
 
 	};
-	
+
 	@FXML
-	public void closeApp() 
-	{
+	public void closeApp() {
 		Platform.exit();
 	}
 
