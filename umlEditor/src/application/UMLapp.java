@@ -1,4 +1,4 @@
-//test2
+//test UMLapp.java
 package umlEditor.src.application;
 
 import javafx.application.Application;
