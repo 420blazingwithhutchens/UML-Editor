@@ -8,7 +8,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 // Runs the programs
-public class MyApplication extends Application {
+public class SomethinElse extends Application {
     
   
     @Override
