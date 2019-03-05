@@ -1,4 +1,4 @@
-//test
+//test1
 package umlEditor.src.application;
 
 import javafx.application.Application;
@@ -8,7 +8,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 // Runs the programs
-public class SomethinElse extends Application {
+public class MyApplication extends Application {
     
   
     @Override
