@@ -1,4 +1,4 @@
-package umlEditor.src.application;
+package application;
 
 import java.net.URL;
 import java.util.ResourceBundle;
